@@ -45,5 +45,6 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "typeinfo": "cpp"
-    }
+    },
+    "cmake.sourceDirectory": "C:/Users/lamin/OneDrive/Bureau/EngineerStuff/aryou_code/aryouproj/aryouprojqt"
 }

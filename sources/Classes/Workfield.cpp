@@ -1,4 +1,4 @@
-#include "../includes/ClassIncludes/WorkField.h"
+#include "../../includes/ClassIncludes/WorkField.h"
 
 WorkField::WorkField(int id, const std::string& name) : id(id), name(name) {}
 

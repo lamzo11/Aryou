@@ -1,4 +1,4 @@
-#include "../includes/ClassIncludes/Team.h"
+#include "../../includes/ClassIncludes/Team.h"
 #include <algorithm>
 
 Team::Team(int fieldId) : workFieldId(fieldId) {}

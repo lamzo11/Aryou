@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7ae75fc6219425081bec.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "aryouprojqt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "aryouprojqt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aryouprojqt-Debug-93fe49daaa49659fd146.json",
+					"name" : "aryouprojqt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aryouprojqt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aryouprojqt_autogen-Debug-61157fe78850cdf3ae3f.json",
+					"name" : "aryouprojqt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aryouprojqt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aryouprojqt_autogen_timestamp_deps-Debug-9af24f822716985e35a4.json",
+					"name" : "aryouprojqt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/lamin/OneDrive/Bureau/EngineerStuff/aryou_code/aryouproj/aryouprojqt/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/lamin/OneDrive/Bureau/EngineerStuff/aryou_code/aryouproj/aryouprojqt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,4 +1,4 @@
-#include "../includes/ClassIncludes/Employee.h"
+#include "../../includes/ClassIncludes/Employee.h"
 
 // Constructor
 Employee::Employee(int id, const std::string& name, bool permanent, int experience)

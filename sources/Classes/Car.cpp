@@ -1,4 +1,4 @@
-#include "../includes/ClassIncludes/Car.h"
+#include "../../includes/ClassIncludes/Car.h"
 
 Car::Car(int id, int cleanliness, int fuel, int companyId)
     : id(id), cleanlinessLevel(cleanliness), fuelLevel(fuel), rentalCompanyId(companyId) {}
